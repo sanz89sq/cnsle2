@@ -9,7 +9,7 @@
     "unityGameId": "6094609",
     "ads": "enable",
     "testMode": true,
-    "inapp": false,
+    "inapp": true,
     "unityInterstitial": "Interstitial_Android",
     "unityRewarded": "Rewarded_Android"
   }
