@@ -11,7 +11,7 @@
     "testMode": true,
     "inapp": false,
     "unityInterstitial": "Interstitial_Android",
-    "unityRewarded": "Rewarded_Android"
+    "unityRewarded": "Rewarded_Android",
 
     "suspended": "yes",
     "suspended_icon": "https://raw.githubusercontent.com/sanz89sq/Dandypixel2026/refs/heads/main/icoon.png",
