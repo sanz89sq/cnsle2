@@ -1,0 +1,21 @@
+{
+  "AdsController": {
+    "gameSite": "https://app-379660.games.s3.yandex.net/379660/3cnrvrg1e4mfher3pxzw5jau9nxmpogs_brotli/index.html?sdk=%2Fsdk%2F_%2Fv2.c9dd7fdd48522a0f7d44.js#origin=https%3A%2F%2Fplayhop.com&app-id=379660&device-type=desktop",
+    "adNetwork": "applovin",
+    "admobInterstitial": "ca-app-pub-3940256099942544/1033173712",
+    "applovinInterstitial": "611a70e8eb86e4f9",
+    "applovinNative": "78f6b25610f6606a",
+    "applovinAppOpen": "5e4d7f5bbceb97c6",
+    "unityGameId": "6094609",
+    "ads": "enable",
+    "testMode": true,
+    "inapp": false,
+    "unityInterstitial": "Interstitial_Android",
+    "unityRewarded": "Rewarded_Android",
+    "html": "no",
+    "suspended": "no",
+    "suspended_icon": "https://raw.githubusercontent.com/sanz89sq/Dandypixel2026/refs/heads/main/icoon.png",
+    "suspended_link": "https://play.google.com/store/apps/details?id=com.BekoCanGames.GooGooGagaScaryFactory",
+    "suspended_message": "We have a new build — tap the image to download it."
+  }
+}
