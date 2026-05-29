@@ -14,9 +14,9 @@
     "unityRewarded": "Rewarded_Android",
     "html": "yes",
     "reviewpopup": "yes",
-    "suspended": "no",
-    "suspended_icon": "https://raw.githubusercontent.com/sanz89sq/Dandypixel2026/refs/heads/main/icoon.png",
-    "suspended_link": "https://play.google.com/store/apps/details?id=com.BekoCanGames.GooGooGagaScaryFactory",
+    "suspended": "yes",
+    "suspended_icon": "https://raw.githubusercontent.com/sanz89sq/cnsle2/refs/heads/main/ic_launcher-web.png",
+    "suspended_link": "https://play.google.com/store/apps/details?id=com.dandypixel.tocawallpaper",
     "suspended_message": "We have a new build — tap the image to download it."
   }
 }
