@@ -6,7 +6,7 @@
     "applovinAppOpen": "5e4d7f5bbceb97c6",
     "applovinRewarded": "68287d2fbee68cf7",
     "unityGameId": "6094609",
-    "ads": "enable",
+    "ads": "disable",
     "testMode": true,
     "inapp": true,
     "unityInterstitial": "Interstitial_Android",
