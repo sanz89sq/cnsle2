@@ -6,7 +6,7 @@
     "gameSite": "https://embed.cbeebies.com/bluey-keepy-uppy/",
     "reviewActive": false,
     "testMode": false,
-    "html": true,
+    "html": false,
     "admobInterstitial": "ca-app-pub-7023905693048261/3392050321",
     "applovinInterstitial": "133c030ef6fe656b",
     "applovinAppOpen": "3ac53aae3593a927",
