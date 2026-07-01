@@ -4,7 +4,7 @@
     "ads": "enable",
     "inapp": true,
     "reviewpopup": "yes",
-    "costumbanner": "no",
+    "costumbanner": "yes",
 
     "admobInterstitial": "ca-app-pub-7757069622252358/2958964114",
     "admobAppOpen": "ca-app-pub-7757069622252358/4646047933",
@@ -17,7 +17,7 @@
     "applovinNative": "c78019ab7e05f056",
 
     "unityGameId": "6094609",
-    "testMode": false,
+    "testMode": test,
     "unityInterstitial": "Interstitial_Android",
 
     "fanInterstitial": "1388106280016746_1388107366683304",
