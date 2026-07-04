@@ -8,9 +8,9 @@
     "testMode": true,
 
     "pinterest_base": "https://api.pinterest.com/v3/pidgets/boards/Pebbleeu/",
-    "board0": "smiling-critters/pins/",
+    "board0": "yarnabi-wallpaper/pins/",
     "board0_name": "Trending",
-    "board1": "smiling-critters-wallpaper/pins/",
+    "board1": "smiling-critters/pins/",
     "board1_name": "Featured",
     "board2": "poppy-playtime-wallpapers/pins/",
     "board2_name": "Top pick",
