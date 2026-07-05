@@ -1,6 +1,6 @@
 {
   "AdsController": {
-    "ads": "enable",
+    "ads": "unity",
     "adNetwork": "applovin",
 
     "applovinInterstitial": "a59b5ad0944a47af",
@@ -12,5 +12,6 @@
 
     "testMode": true,
     "reviewActive": false
+    "gamecontent": "enable"
   }
 }
