@@ -12,6 +12,6 @@
 
     "testMode": true,
     "reviewActive": false
-    "gamecontent": "enable"
+    "gamecontent": "disable"
   }
 }
