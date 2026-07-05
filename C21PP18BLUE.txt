@@ -1,7 +1,7 @@
 {
   "AdsController": {
     "ads": "enable",
-    "adNetwork": "unity",
+    "adNetwork": "applovin",
 
     "applovinInterstitial": "a59b5ad0944a47af",
     "applovinNative": "ff2ad150fa6847bf",
