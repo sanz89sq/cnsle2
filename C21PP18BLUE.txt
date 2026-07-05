@@ -7,8 +7,8 @@
     "applovinNative": "ff2ad150fa6847bf",
     "applovinAppOpen": "c0ace1906ec4394d",
 
-    "unityGameId": "",
-    "unityInterstitial": "",
+    "unityGameId": "6148642",
+    "unityInterstitial": "Interstitial_Android",
 
     "testMode": true,
     "reviewActive": false
