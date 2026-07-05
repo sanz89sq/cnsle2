@@ -9,7 +9,6 @@
 
     "unityGameId": "",
     "unityInterstitial": "",
-    "unityAppOpen": "",
 
     "testMode": true,
     "reviewActive": false
