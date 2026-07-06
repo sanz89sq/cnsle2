@@ -5,6 +5,8 @@
     
     "admobInterstitial": "ca-app-pub-3940256099942544/1033173712",
     "admobAppOpen": "ca-app-pub-3940256099942544/9257395921",
+    "admobRewarded": "ca-app-pub-3940256099942544/5224354917",
+
 
     "applovinInterstitial": "a59b5ad0944a47af",
     "applovinNative": "ff2ad150fa6847bf",
