@@ -12,6 +12,5 @@
     "testMode": true,
 
     "reviewActive": false,
-    "gamecontent": "yes"
   }
 }
