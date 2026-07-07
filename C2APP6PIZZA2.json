@@ -1,7 +1,7 @@
 {
   "AdsController": {
     "gameSite": "https://kdata1.com/2021/03/3527391/2.1/",
-    "adNetwork": "applovin",
+    "adNetwork": "unity",
     "admobInterstitial": "ca-app-pub-3940256099942544/1033173712",
     "applovinInterstitial": "97ca4229dfb94519",
     "applovinNative": "01ed1e9ad9d0add1",
