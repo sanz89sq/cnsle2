@@ -14,7 +14,7 @@
 
     "unityGameId": "800274634",
     "unityInterstitial": "Interstitial_Android",
-    "testMode": false,
+    "testMode": true,
     "reviewActive": false
   }
 }
