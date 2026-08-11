@@ -1,6 +1,6 @@
 {
   "AdsController": {
-    "adNetwork": "unity",
+    "adNetwork": "applovin",
     "ads": "enable",
     
     "admobInterstitial": "ca-app-pub-7757069622252358/3353652143",
@@ -8,13 +8,13 @@
     "admobRewarded": "ca-app-pub-7757069622252358/8167140910",
 
 
-    "applovinInterstitial": "a59b5ad0944a47af",
-    "applovinNative": "ff2ad150fa6847bf",
-    "applovinAppOpen": "c0ace1906ec4394d",
+    "applovinInterstitial": "816837d2dac06975",
+    "applovinNative": "de22f912d0c5aa31",
+    "applovinAppOpen": "25f3aa1b6040a6ec",
 
     "unityGameId": "800274634",
     "unityInterstitial": "Interstitial_Android",
-    "testMode": true,
+    "testMode": false,
     "reviewActive": false
   }
 }
