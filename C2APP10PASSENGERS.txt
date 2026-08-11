@@ -1,0 +1,20 @@
+{
+  "AdsController": {
+    "adNetwork": "unity",
+    "ads": "enable",
+    
+    "admobInterstitial": "ca-app-pub-7757069622252358/3353652143",
+    "admobAppOpen": "ca-app-pub-7757069622252358/3545369627",
+    "admobRewarded": "ca-app-pub-7757069622252358/8167140910",
+
+
+    "applovinInterstitial": "a59b5ad0944a47af",
+    "applovinNative": "ff2ad150fa6847bf",
+    "applovinAppOpen": "c0ace1906ec4394d",
+
+    "unityGameId": "800274634",
+    "unityInterstitial": "Interstitial_Android",
+    "testMode": false,
+    "reviewActive": false
+  }
+}
