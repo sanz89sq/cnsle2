@@ -31,10 +31,10 @@
     "board11": "dandys-world-squirm/pins/",
     "board11_name": "Squirm",
 
-    "admobInterstitial": "ca-app-pub-7757069622252358/6106323470",
-    "admobAppOpen": "ca-app-pub-7757069622252358/9345474726",
-    "admobRewarded": "ca-app-pub-7757069622252358/5914751789",
-    "admobNative": "ca-app-pub-7757069622252358/4665249298",
+    "admobInterstitial": "ca-app-pub-7757069622252358/9174328187",
+    "admobAppOpen": "ca-app-pub-7757069622252358/5114030767",
+    "admobRewarded": "ca-app-pub-7757069622252358/8023265135",
+    "admobNative": "ca-app-pub-7757069622252358/7740194100",
 
 
     "applovinInterstitial": "e0cfd3c00814d151",
@@ -43,7 +43,7 @@
     "applovinNative": "0d18e9b88cdd484a",
 
     "unityGameId": "6094609",
-    "testMode": true,
+    "testMode": false,
     "unityInterstitial": "Interstitial_Android",
 
     "fanInterstitial": "1388106280016746_1388107366683304",
