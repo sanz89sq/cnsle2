@@ -1,0 +1,23 @@
+{
+  "AdsController": {
+    "adNetwork": "admob",
+    "ads": "enable",
+    
+    "admobInterstitial": "ca-app-pub-3940256099942544/1033173712",
+    "admobAppOpen": "ca-app-pub-3940256099942544/9257395921",
+    "admobRewarded": "ca-app-pub-3940256099942544/5224354917",
+
+
+    "applovinInterstitial": "a59b5ad0944a47af",
+    "applovinNative": "ff2ad150fa6847bf",
+    "applovinAppOpen": "c0ace1906ec4394d",
+
+    "reddbubleLink": "https://www.redbubble.com/people/ChristianBoss/shop?ref=account-nav-dropdown&collections=4580071",
+    "teepublicLink": "https://www.teepublic.com/user/toonsworld/albums/538289-bluey",
+
+    "unityGameId": "6148642",
+    "unityInterstitial": "Interstitial_Android",
+    "testMode": true,
+    "reviewActive": false
+  }
+}
